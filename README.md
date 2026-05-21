@@ -25,9 +25,9 @@ It provides a foundation for understanding object-oriented programming concepts,
 
 ##  Project Structure
 - `Customer.java` → Model class representing a bank customer.  
-- `Bank.java` → Core banking operations (deposit, withdraw, balance check).  
-- `BankingSystem.java` → Main entry point to run the application.  
-- `data/` → Serialized file storage for customer accounts.  
+- `BankingSystem.java` → Core banking operations (deposit, withdraw, balance check).  
+- `BankingApp.java` → Main entry point to run the application.  
+- `BankAccount/` → Serialized file storage for customer accounts.  
 
 ---
 
